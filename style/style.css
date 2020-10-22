@@ -6,7 +6,7 @@ body {background-color: white;
 }
 
 header{
-border-bottom: 1.5px solid black;
+border-bottom: 2px solid black;
 font-family: 'Fira Sans', sans-serif;
 position: fixed;
 top:0px;
@@ -70,16 +70,13 @@ color: black;
 	grid-auto-flow: row; 
 }
 
-article{
-	border: 1px solid black	
-}
 
 img {
 	max-width: 100%;
 	height: auto;
 }
 
-#projet_tc{
+#projet_ate{
 	grid-column-start: 1;/*à quel colomne elle commence*/
 	grid-column-end: 2; /*à quel colomne elle finit*/
 
@@ -96,7 +93,6 @@ img {
 
 
 footer{
-background-color: white;
 width: 100vw;
 height: 50px;
 display: flex;
@@ -105,7 +101,6 @@ justify-content: center;
 }
 
 .fprojet{
-background-color: white;
 width: 30vw;
 height: 30px;
 display: flex;
@@ -145,12 +140,12 @@ font-size: 2em;
 
 h2{
 width: 23vw;
-height: 3vw;
 font-family: Fira Sans;
 font-weight:900;
 font-size: 1.75em;
 padding-left: 40px;
-padding-top: 20px;
+padding-top: 40px;
+padding-bottom: 10px;
 }
 
 h3{
@@ -159,16 +154,16 @@ font-family: Fira Sans;
 font-weight:600;
 font-size: 1.5em;
 padding-left: 40px;
+padding-bottom: 20px;
 }
 
 .description{
 width: 23vw;
 font-family: Fira Sans;
 font-weight:300;
-font-size: 0.85em;
+font-size: 0.90em;
 padding-left: 40px;
-padding-top: 10px;
-line-height: 1.2em;
+line-height: 1.3em;
 
 }
 
@@ -179,7 +174,7 @@ line-height: 1.2em;
 	width: 70vw;
 	position: fixed;
 	right:0px;
-	top: 51px;
+	top: 52px;
 	overflow: auto;
 	background-color: black;
 
@@ -188,8 +183,8 @@ line-height: 1.2em;
 .images #verti {
 	max-width: 40%;
 	margin: auto;
-	padding-bottom: 40px;
 	padding-top: 40px;
+	padding-bottom: 40px;
 
 }
 
