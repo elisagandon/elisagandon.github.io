@@ -1,0 +1,203 @@
+@font-face{
+font-family: 'Poppins', sans-serif;
+}
+
+body {background-color: white;
+	overflow-x: hidden;
+}
+
+header{
+border-bottom: 2px solid #1a0096;
+font-family: 'Poppins', sans-serif;
+position: fixed;
+top:0px;
+background-color: white;
+width: 100vw;
+height: 50px;
+display: flex;	
+justify-content: space-between;
+align-items: center;
+}
+
+h1{
+width: 20vw;
+font-family: 'Poppins';
+font-weight:400;
+font-size: 1.25em;
+padding-left: 2vw;
+
+}
+
+#logo img{
+	width: 10vw;
+	height: 35px;
+	padding-left: 2vw;
+}
+
+ul{
+display: flex;
+width: 35vw;
+justify-content: space-between;
+padding-right: 3vw;
+}
+
+li{
+font-family: 'Poppins';
+font-weight:500;
+font-size: 1.10em;
+}
+
+a{
+text-decoration:none;
+color: #1a0096;
+}
+
+a:hover{
+text-decoration: underline;
+}
+
+
+
+
+.conteneur{
+	width: 1000px;
+	height:auto;
+	margin:100px auto;
+	display: grid;
+	grid-template-columns: 1fr 1fr 1fr;
+	grid-template-rows:auto;
+	grid-gap: 30px; /*grille avec 30px ecart */
+	grid-auto-flow: row ; /*ranger en rangée*/
+}
+
+
+img {
+	max-width: 100%;
+	height: auto;
+}
+
+footer{
+width: 100vw;
+height: 50px;
+display: flex;
+align-items: center;
+justify-content: center;
+}
+
+.fprojet{
+width: 30vw;
+height: 30px;
+display: flex;
+align-items: center;
+justify-content: space-between;
+position: fixed;
+bottom: 0px;	
+}
+
+.p-footer{
+font-family: 'Poppins';
+color: #1a0096;
+font-weight:400;
+text-align: center;
+font-size: 0.7em;
+
+}
+
+.fprojet a{
+width: 100px;	
+text-align: center;
+font-family: 'Poppins';
+font-weight: 200;
+font-size: 2em;
+}
+
+
+
+
+.info{
+	height: calc(100vh - 80px);
+	width: 30vw;
+	position: fixed;
+	left: 0px;
+	top: 50px;
+	overflow: auto;
+	padding-left: 2.5vw;
+}
+
+
+h2{
+width: 23vw;
+font-family: 'Poppins';
+color: #1a0096;
+font-weight:800;
+font-size: 1.75em;
+padding-top: 40px;
+padding-bottom: 10px;
+}
+
+h3{
+width: 23vw;
+font-family: 'Poppins';
+color: #1a0096;
+font-weight:500;
+font-size: 1.5em;
+padding-bottom: 20px;
+}
+
+
+.description{
+width: 23vw;
+font-family: 'Poppins';
+color: #1a0096;
+font-weight:300;
+font-size: 0.90em;
+line-height: 1.3em;
+}
+
+em{
+font-family:'Poppins';
+font-weight:300;
+font-style: italic;
+}
+
+
+
+.images{
+	height: calc(100vh - 50px);
+	width: 70vw;
+	position: fixed;
+	right:0px;
+	top: 52px;
+	overflow: auto;
+	background-color: black;
+
+}
+
+.images #verti {
+	max-width: 40%;
+	margin: auto;
+	padding-top: 40px;
+	padding-bottom: 40px;
+
+}
+
+.images #horiz {
+	width: auto;
+}
+
+.images #horiz_marges {
+	max-width: 80%;
+	margin: auto;
+	padding-top: 40px;
+	padding-bottom: 40px;
+
+}
+
+
+.images figure img {
+	width: 100%;
+
+}
+
+
+
