@@ -16,7 +16,7 @@
       <a href="https://elisagandon.github.io/" target="_blank">portfolio</a>
     </h2>
     <p>
-      Design participatif 
+      Design participatif : plus développer 
     </p>
   </aside>
 
@@ -29,7 +29,7 @@
  /_/   \_\_|   \__|_|\___|_|\___|
  -->
 
-  <article class="filterDiv designparticipatif communication">
+  <article class="filterDiv co-design design">
     <h3>
       Pierre MUSSO, Laurent PONTHOU, Éric SEULLIET.
  (auteur).  
@@ -46,7 +46,7 @@
       Pierre MUSSO, Laurent PONTHOU, Éric SEULLIET, 2007.
     </h5>
     
-    <blockquote cit="#">Le principe fondamental de la démocratie est que les fins de liberté et d’individualité pour tous ne peuvent être atteintes que par des moyens en accord avec ces fins.
+    <blockquote cit="#">Le principe fondamental de la démocratie est que les fins de liberté et d’individualité pour tous ne peuvent être atteintes que par des moyens en accord avec ces fins.<br/>
 John Dewey, 1937</blockquote>
     
     <p> 
@@ -55,7 +55,7 @@ John Dewey, 1937</blockquote>
    
 
     <h6> 
-      20 Septembre   
+      Consulté le 20 Septembre 2021  
     </h6>
   
   </article>
@@ -68,7 +68,7 @@ John Dewey, 1937</blockquote>
  /_/   \_\_|   \__|_|\___|_|\___|
  -->
 
-  <article class="filterDiv designparticipatif chantier">
+  <article class="filterDiv co-design design">
     <h3>
       Cité en chantier, Collectif Ne Rougissez Pas  
     </h3>
@@ -95,7 +95,7 @@ Signalétique créée en panneaux de bois découpés et peints.
    
 
     <h6> 
-      27 Septembre   
+      Consulté le 27 Septembre 2021
     </h6>
   
   </article>
