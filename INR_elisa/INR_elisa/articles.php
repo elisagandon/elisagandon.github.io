@@ -16,7 +16,7 @@
       <a href="https://elisagandon.github.io/" target="_blank">portfolio</a>
     </h2>
     <p>
-      Design participatif : plus développer 
+      La conception participative, ou coconception, que l'on retrouve couramment sous le terme codesign, co-design et design participatif, est une méthode de travail qui implique l’utilisateur final, lors d’un processus d’échange et de création, dans la conception d’un produit ou d’un service. 
     </p>
   </aside>
 
