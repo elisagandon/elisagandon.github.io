@@ -36,7 +36,7 @@
     </h3>
 
     <h4>
-      <a href="#mettre le lien" target="_blank">
+      <a href="https://www.mei-info.com/wp-content/uploads/2017/06/MEI40-143-160-Design-du-codesign.pdf" target="_blank">
         Design du codesign
         Le rôle de la communication dans le design participatif 
       </a>
