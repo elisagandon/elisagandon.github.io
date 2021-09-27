@@ -29,7 +29,7 @@
  /_/   \_\_|   \__|_|\___|_|\___|
  -->
 
-  <article class="filterDiv tag1 tag2">
+  <article class="filterDiv designparticipatif communication">
     <h3>
       Pierre MUSSO, Laurent PONTHOU, Éric SEULLIET.
  (auteur).  
@@ -56,6 +56,46 @@ John Dewey, 1937</blockquote>
 
     <h6> 
       20 Septembre   
+    </h6>
+  
+  </article>
+
+  <!-- 
+     _         _   _      _      
+    / \   _ __| |_(_) ___| | ___ 
+   / _ \ | '__| __| |/ __| |/ _ \
+  / ___ \| |  | |_| | (__| |  __/
+ /_/   \_\_|   \__|_|\___|_|\___|
+ -->
+
+  <article class="filterDiv designparticipatif chantier">
+    <h3>
+      Cité en chantier, Collectif Ne Rougissez Pas  
+    </h3>
+
+    <h4>
+      <a href="http://www.nerougissezpas.fr/projets/chantiers/cite-en-chantier/">
+        CITÉ EN CHANTIER 
+        Viry Chatillon
+        Juin 2016
+        Experience - Chantier - Collectif 
+      </a>
+    </h4> 
+    
+    <h5>
+      Collectif Ne Rougissez Pas, 2016.
+    </h5>
+    
+    <blockquote cit="#">À partir d'une balade urbaine réalisée par le CAUE 91 et de l'engagement de 15 jeunes en réinsertion, le projet de signalement et de signalétique de la cité des Erables a émergé.</blockquote>
+    
+    <p> 
+      Cinq jours de chantier, de rencontres, de repas, de dessins, de découpes, de pauses, de peintures, de pochoirs et d'installations à Viry Châtillon.
+Signalétique créée en panneaux de bois découpés et peints.
+    </p>
+   
+
+    <h6> 
+      27 Septembre   
     </h6>
   
   </article>
