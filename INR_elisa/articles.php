@@ -31,8 +31,7 @@
 
   <article class="filterDiv co-design design">
     <h3>
-      Pierre MUSSO, Laurent PONTHOU, Éric SEULLIET.
- (auteur).  
+      DARRAS, Bernard.  
     </h3>
 
     <h4>
@@ -43,7 +42,7 @@
     </h4> 
     
     <h5>
-      Pierre MUSSO, Laurent PONTHOU, Éric SEULLIET, 2007.
+      MEI : Information et Mediation, 2019.
     </h5>
     
     <blockquote cit="#">Le principe fondamental de la démocratie est que les fins de liberté et d’individualité pour tous ne peuvent être atteintes que par des moyens en accord avec ces fins.<br/>
@@ -55,7 +54,7 @@ John Dewey, 1937</blockquote>
    
 
     <h6> 
-      Consulté le 20 Septembre 2021  
+      Consulté le 20 septembre 2021  
     </h6>
   
   </article>
@@ -95,7 +94,7 @@ Signalétique créée en panneaux de bois découpés et peints.
    
 
     <h6> 
-      Consulté le 27 Septembre 2021
+      Consulté le 27 septembre 2021
     </h6>
   
   </article>
@@ -133,7 +132,7 @@ Des formes ont été tirées des nombreux vitraux de l'école, ils nous ont perm
    
 
     <h6> 
-      Consulté le 4 Octobre 2021
+      Consulté le 4 octobre 2021
     </h6>
   
   </article>
@@ -169,7 +168,7 @@ Des formes ont été tirées des nombreux vitraux de l'école, ils nous ont perm
    
 
     <h6> 
-      Consulté le 4 Octobre 2021  
+      Consulté le 4 octobre 2021  
     </h6>
   
   </article>
@@ -205,7 +204,7 @@ Des formes ont été tirées des nombreux vitraux de l'école, ils nous ont perm
    
 
     <h6> 
-      Consulté le 4 Octobre 2021  
+      Consulté le 4 octobre 2021  
     </h6>
   
   </article>
@@ -241,7 +240,118 @@ Des formes ont été tirées des nombreux vitraux de l'école, ils nous ont perm
    
 
     <h6> 
-      Consulté le 4 Octobre 2021  
+      Consulté le 4 octobre 2021  
+    </h6>
+  
+  </article>
+
+
+<!-- 
+     _         _   _      _      
+    / \   _ __| |_(_) ___| | ___ 
+   / _ \ | '__| __| |/ __| |/ _ \
+  / ___ \| |  | |_| | (__| |  __/
+ /_/   \_\_|   \__|_|\___|_|\___|
+ -->
+
+  <article class="filterDiv co-design design">
+    <h3>
+      Dautrey Jehanne  
+    </h3>
+
+    <h4>
+      <a href="https://www.lespressesdureel.com/ouvrage.php?id=7185" target="_blank">
+        Design et pensée du care – Pour un design des microluttes et des singularités 
+      </a>
+    </h4> 
+    
+    <h5>
+      Presses Du Reel, 2019.
+    </h5>
+    
+    <blockquote cit="#">« Qu’est ce que le concept de care, issu de la philosophie américaine et centré sur la notion de sollicitude, apporte au design, à ses objectifs et à ses pratiques ? En quoi le « souci de l’autre » le conduit-il à modifier ses objectifs, ses modes d’interventions ses méthodes ? Par ailleurs, on s’interroge à cette occasion sur ce que le design apporte de son côté à la question du care, du fait de son rapport étroit avec les dispositifs matériels. En quoi les pratiques des designers engagés dans l’action mettent-ils en œuvre une variété de tactiques pour lutter contre les normativités, débordant la seule dimension des relations et des affects mis en avant pare le care ? » <br/>
+    </blockquote>
+    
+    <p> 
+      Une réflexion collective sur les relations de réciprocité entre design et pensée du care (éthique de la sollicitude), dans les domaines du soin, de l'innovation sociale, des objets ou encore de la problématique environnementale.
+    </p>
+   
+
+    <h6> 
+      Consulté le 11 octobre 2021  
+    </h6>
+  
+  </article>
+
+
+  <!-- 
+     _         _   _      _      
+    / \   _ __| |_(_) ___| | ___ 
+   / _ \ | '__| __| |/ __| |/ _ \
+  / ___ \| |  | |_| | (__| |  __/
+ /_/   \_\_|   \__|_|\___|_|\___|
+ -->
+
+  <article class="filterDiv co-design design">
+    <h3> 
+      BAUDELAIRE Camille + SCHRADER Sarah 
+    </h3>
+
+    <h4>
+      <a href="https://www.atelierbaudelaire.com/fr/home/parc-culturel-jean-jacques-rousseau" target="_blank">
+        Un jardin accessible 
+      </a>
+    </h4> 
+    
+    <h5>
+      BAUDELAIRE Camille, 2018.
+    </h5>
+    
+    <blockquote cit="#">Une gamme de motifs sensoriels s’inspirant des textures, formes et couleurs d’un jardin chargé d’histoire, se font support à un atelier de création solidaire.</blockquote>
+    
+    <p> 
+      À la suite de plusieurs semaines de résidence au Parc Culturel Jean Jacques Rousseau, BAUDELAIRE Camille et SCHRADER Sarah ont conçu avec des personnes en situation de grave handicap, puis des jeunes issus de foyers, des cartes sensibles inspirées des motifs du jardin. Par un système modulaire, elles permettent de créer des compositions variées, dynamiques, et sur-mesure. À la fois ludique et original, le principe s’appuie sur la combinaison de plusieurs éléments : une carte sérigraphiée et texturée, sur laquelle sont agencés des fragments géométriques de papiers colorés, cadrés au travers d’une Marie-Louise.
+    </p>
+   
+
+    <h6> 
+      Consulté le 11 octobre 2021  
+    </h6>
+  
+  </article>
+
+  <!-- 
+     _         _   _      _      
+    / \   _ __| |_(_) ___| | ___ 
+   / _ \ | '__| __| |/ __| |/ _ \
+  / ___ \| |  | |_| | (__| |  __/
+ /_/   \_\_|   \__|_|\___|_|\___|
+ -->
+
+  <article class="filterDiv co-design design">
+    <h3> 
+      SAUZET, Mathilde  
+    </h3>
+
+    <h4>
+      <a href="#" target="_blank">
+        COLLECTIF ETC : LE GÉANT, LA BOHÈME ET LE COUP DE MAIN 
+      </a>
+    </h4> 
+    
+    <h5>
+      SAUZET Mathilde, 9 avril 2013.
+    </h5>
+    
+    <blockquote cit="#">La nature de l’engagement politique, artistique et social semble prendre une nouvelle figure délaissant le scandale pour une révolte prudente mais vivace.</blockquote>
+    
+    <p> 
+      Si le collectif ETC commence à trouver une place singulière dans le paysage de l’activisme, c’est peut-être pour son curieux mélange d’enfants sages et gaillards sans peurs, militants généreux de la perceuse et du tweet. De la belle éthique à la belle étiquette, où en sont-ils ?
+    </p>
+   
+
+    <h6> 
+      Consulté le 11 octobre 2021  
     </h6>
   
   </article>
