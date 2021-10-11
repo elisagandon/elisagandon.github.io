@@ -16,7 +16,8 @@
       <a href="https://elisagandon.github.io/" target="_blank">portfolio</a>
     </h2>
     <p>
-      La conception participative, ou coconception, que l'on retrouve couramment sous le terme codesign, co-design et design participatif, est une méthode de travail qui implique l’utilisateur final, lors d’un processus d’échange et de création, dans la conception d’un produit ou d’un service. 
+      Mon thème de recherche est porté sur le rôle que peut avoir le graphiste dans la création de lien social. 
+
     </p>
   </aside>
 
@@ -36,7 +37,7 @@
 
     <h4>
       <a href="https://www.mei-info.com/wp-content/uploads/2017/06/MEI40-143-160-Design-du-codesign.pdf" target="_blank">
-        Design du codesign
+        Design du codesign -
         Le rôle de la communication dans le design participatif 
       </a>
     </h4> 
@@ -45,11 +46,11 @@
       MEI : Information et Mediation, 2019.
     </h5>
     
-    <blockquote cit="#">Le principe fondamental de la démocratie est que les fins de liberté et d’individualité pour tous ne peuvent être atteintes que par des moyens en accord avec ces fins.<br/>
-John Dewey, 1937</blockquote>
+    <blockquote cit="#">les chercheurs et designers veillent à ce que les utilisateurs ne soient pas 
+seulement consultés (ce qui est déjà une avancée), mais qu’ils soient impliqués comme des partenaires centraux dans le processus du design.<br/></blockquote>
     
     <p> 
-      Cet article est destiné à présenter le design coopératif que l’on appelle aussi design participatif ou codesign. Il discute de la question de la création participative en régime démocratique et adopte une approche relationniste et communicationnelle typique du codesign et du design empathique.
+      Cet article présente le design coopératif que l’on appelle aussi design participatif ou codesign. Il discute de la question de la création participative en régime démocratique et adopte une approche relationniste et communicationnelle typique du codesign et du design empathique.
     </p>
    
 
@@ -67,17 +68,14 @@ John Dewey, 1937</blockquote>
  /_/   \_\_|   \__|_|\___|_|\___|
  -->
 
-  <article class="filterDiv co-design design">
+  <article class="filterDiv co-design projets">
     <h3>
-      Cité en chantier, Collectif Ne Rougissez Pas  
+      Collectif Ne Rougissez Pas  
     </h3>
 
     <h4>
-      <a href="http://www.nerougissezpas.fr/projets/chantiers/cite-en-chantier/">
-        CITÉ EN CHANTIER 
-        Viry Chatillon
-        Juin 2016
-        Experience - Chantier - Collectif 
+      <a href="http://www.nerougissezpas.fr/projets/chantiers/cite-en-chantier/"target="_blank">
+        Cité en Chantier  
       </a>
     </h4> 
     
@@ -88,8 +86,7 @@ John Dewey, 1937</blockquote>
     <blockquote cit="#">À partir d'une balade urbaine réalisée par le CAUE 91 et de l'engagement de 15 jeunes en réinsertion, le projet de signalement et de signalétique de la cité des Erables a émergé.</blockquote>
     
     <p> 
-      Cinq jours de chantier, de rencontres, de repas, de dessins, de découpes, de pauses, de peintures, de pochoirs et d'installations à Viry Châtillon.
-Signalétique créée en panneaux de bois découpés et peints.
+     Ce projet de signalétique est un exemple de projet participatif. La signalétique a été réalisée avec 15 jeunes en reinsertion professionnelle. Cette collaboration est devenue un moment de rencontres, d'échanges, de créations, et d'installations à Viry Châtillon.
     </p>
    
 
@@ -107,27 +104,25 @@ Signalétique créée en panneaux de bois découpés et peints.
  /_/   \_\_|   \__|_|\___|_|\___|
  -->
 
-  <article class="filterDiv co-design design">
+  <article class="filterDiv co-design projets">
     <h3>
-      Captain LUDD 
+      LUDD Captain  
     </h3>
 
     <h4>
-      <a href="http://cptludd.fr/index.php?article74/rosa">
+      <a href="http://cptludd.fr/index.php?article74/rosa"target="_blank">
         LA ROSA : une typographie créee par les enfants de l'école Rosa Parks
       </a>
     </h4> 
     
     <h5>
-      Captain LUDD, 2019.
+      LUDD Captain, 2019.
     </h5>
     
     <blockquote cit="#">Une typographie unique, à partir d'une grille inspirée des vitraux , la Rosa sert de texte aux panneaux. Avec cette grille les enfants ont crée ensemble un alphabet commun.</blockquote>
     
     <p> 
-      Au cours de 3 séances d'ateliers dans l'école Rosa parks de Saint-Etienne, le collectif Captain LUDD a crée avec les enfants une typographie et une collection de pictogramme afin de réaliser la signalétique de leur école.
-Des formes ont été tirées des nombreux vitraux de l'école, ils nous ont permis de réalisé la grille typographique utilisé comme un Geo-plan afin que les enfants composent des caractère sur la même base.
-
+    Ce projet de signalétique est un exemple de projet participatif. Au cours de 3 séances d'ateliers dans l'école Rosa parks de Saint-Etienne, le collectif Captain LUDD a crée avec les enfants une typographie et une collection de pictogramme afin de réaliser la signalétique de leur école. 
     </p>
    
 
@@ -145,25 +140,25 @@ Des formes ont été tirées des nombreux vitraux de l'école, ils nous ont perm
  /_/   \_\_|   \__|_|\___|_|\___|
  -->
 
-  <article class="filterDiv co-design design">
+  <article class="filterDiv co-design projets">
     <h3>
-      Éloïsa Pérez  
+      PEREZ, Éloïsa   
     </h3>
 
     <h4>
-      <a href="https://www.eloisaperez.fr/">
+      <a href="https://www.eloisaperez.fr/"target="_blank">
         Du geste à l'idée : formes de l'écriture à l'école primaire 
       </a>
     </h4> 
     
     <h5>
-      Éloïsa Pérez, 2014.
+      PEREZ Éloïsa, 2014.
     </h5>
     
     <blockquote cit="#">L’écriture est avant tout un système d’expression. Son acquisition implique l’apprentissage des logiques graphiques, syntaxiques et sémantiques qui régissent le langage qu’elle figure.</blockquote>
     
     <p> 
-      Les recherches d’Eloïsa Pérez interrogent l’apprentissage de la lecture et de l’écriture par l’enfant. Comment le design graphique peut-il accompagner les objectifs pédagogiques de l’enfant ? Comment travailler et moduler cet apprentissage à l’aune des influences de systèmes visuels dans le processus d’acquisition de ce savoir ?
+      Ce projet d’Eloïsa Pérez interroge l’apprentissage de la lecture et de l’écriture par l’enfant.
     </p>
    
 
@@ -181,13 +176,13 @@ Des formes ont été tirées des nombreux vitraux de l'école, ils nous ont perm
  /_/   \_\_|   \__|_|\___|_|\___|
  -->
 
-  <article class="filterDiv co-design design">
+  <article class="filterDiv co-design projets">
     <h3>
       Grapheine  
     </h3>
 
     <h4>
-      <a href="https://www.grapheine.com/branding/autre-soie-identite-visuelle-participative">
+      <a href="https://www.grapheine.com/branding/autre-soie-identite-visuelle-participative"target="_blank">
         L’Autre Soie, une identité visuelle participative ! 
       </a>
     </h4> 
@@ -196,10 +191,10 @@ Des formes ont été tirées des nombreux vitraux de l'école, ils nous ont perm
       Grapheine, 06 janvier 2019
     </h5>
     
-    <blockquote cit="#">Et peu importe que les points soient reliés physiquement ou mentalement, c'est dans cette action que les mots deviennent des signes, et que le logo apparait. Dès lors, la personne qui regarde le logo devient co-auteur du logo !</blockquote>
+    <blockquote cit="#">Et peu importe que les points soient reliés physiquement ou mentalement, c'est dans cette action que les mots deviennent des signes, et que le logo apparait. Dès lors, la personne qui regarde le logo devient co-auteur du logo&#8201;!</blockquote>
     
     <p> 
-       Dans cet article le studio Grapheine présente un projet d'identité visuelle qui s'aventure hors des sentiers battus. Une aventure de conception collective qui fut l'occasion d'interroger le rôle de l'identité visuelle en dehors des champs institutionnels et commerciaux classiques. Ainsi l'enjeu fut d'essayer de répondre à la question : À quoi ressemblerait une identité visuelle horizontale, participative et inclusive ?
+       Dans cet article le studio Grapheine présente un projet d'identité visuelle participatif. Ce projet est une aventure de conception collective qui fut l'occasion d'interroger le rôle de l'identité visuelle en dehors des champs institutionnels et commerciaux classiques.
     </p>
    
 
@@ -217,13 +212,13 @@ Des formes ont été tirées des nombreux vitraux de l'école, ils nous ont perm
  /_/   \_\_|   \__|_|\___|_|\___|
  -->
 
-  <article class="filterDiv tag1 tag2">
+  <article class="filterDiv co-design projets">
     <h3>
       Team Thursday   
     </h3>
 
     <h4>
-      <a href="https://etapes.com/team-thursday-moving-futures/">
+      <a href="https://etapes.com/team-thursday-moving-futures/"target="_blank">
       Moving Futures 
       </a>
     </h4> 
@@ -235,7 +230,8 @@ Des formes ont été tirées des nombreux vitraux de l'école, ils nous ont perm
     <blockquote cit="#">Personnaliser 2000 affiches à la main, c’est du boulot, mais ça peut valoir le coup de tenter l’effort.</blockquote>
     
     <p> 
-      L’idée à travers les supports de communication a été de réaliser une affiche typographique modèle, sur laquelle figure toutes les informations comme le nom des villes, les dates ou encore les thèmes du festival. Ensuite, armée d’un marqueur rouge, l’équipe de Team Thursday, s’est attaquée à chaque affiche, pour les personnaliser spontanément et mettre en évidence les informations importantes en fonction des représentations et déplacements du festival.
+      Le studio Team Thursday à réalisé pour le festival «Moving Futures» des affiches typographique modèle qui doivent être complétées avec un marqueur rouge. 
+      C'est un exemple de projet participatif. 
     </p>
    
 
@@ -254,9 +250,9 @@ Des formes ont été tirées des nombreux vitraux de l'école, ils nous ont perm
  /_/   \_\_|   \__|_|\___|_|\___|
  -->
 
-  <article class="filterDiv co-design design">
+  <article class="filterDiv graphisme design">
     <h3>
-      Dautrey Jehanne  
+      DAUTREY, Jehanne  
     </h3>
 
     <h4>
@@ -269,11 +265,11 @@ Des formes ont été tirées des nombreux vitraux de l'école, ils nous ont perm
       Presses Du Reel, 2019.
     </h5>
     
-    <blockquote cit="#">« Qu’est ce que le concept de care, issu de la philosophie américaine et centré sur la notion de sollicitude, apporte au design, à ses objectifs et à ses pratiques ? En quoi le « souci de l’autre » le conduit-il à modifier ses objectifs, ses modes d’interventions ses méthodes ? Par ailleurs, on s’interroge à cette occasion sur ce que le design apporte de son côté à la question du care, du fait de son rapport étroit avec les dispositifs matériels. En quoi les pratiques des designers engagés dans l’action mettent-ils en œuvre une variété de tactiques pour lutter contre les normativités, débordant la seule dimension des relations et des affects mis en avant pare le care ? » <br/>
+    <blockquote cit="#">Qu’est ce que le concept de care, issu de la philosophie américaine et centré sur la notion de sollicitude, apporte au design, à ses objectifs et à ses pratiques&#8201;?<br/>
     </blockquote>
     
     <p> 
-      Une réflexion collective sur les relations de réciprocité entre design et pensée du care (éthique de la sollicitude), dans les domaines du soin, de l'innovation sociale, des objets ou encore de la problématique environnementale.
+      Ce livre est une réflexion collective sur les relations de réciprocité entre design et pensée du care (éthique de la sollicitude), dans les domaines du soin, de l'innovation sociale, des objets ou encore de la problématique environnementale.
     </p>
    
 
@@ -292,9 +288,9 @@ Des formes ont été tirées des nombreux vitraux de l'école, ils nous ont perm
  /_/   \_\_|   \__|_|\___|_|\___|
  -->
 
-  <article class="filterDiv co-design design">
+  <article class="filterDiv co-design projets">
     <h3> 
-      BAUDELAIRE Camille + SCHRADER Sarah 
+      BAUDELAIRE, Camille et SCHRADER, Sarah 
     </h3>
 
     <h4>
@@ -310,7 +306,7 @@ Des formes ont été tirées des nombreux vitraux de l'école, ils nous ont perm
     <blockquote cit="#">Une gamme de motifs sensoriels s’inspirant des textures, formes et couleurs d’un jardin chargé d’histoire, se font support à un atelier de création solidaire.</blockquote>
     
     <p> 
-      À la suite de plusieurs semaines de résidence au Parc Culturel Jean Jacques Rousseau, BAUDELAIRE Camille et SCHRADER Sarah ont conçu avec des personnes en situation de grave handicap, puis des jeunes issus de foyers, des cartes sensibles inspirées des motifs du jardin. Par un système modulaire, elles permettent de créer des compositions variées, dynamiques, et sur-mesure. À la fois ludique et original, le principe s’appuie sur la combinaison de plusieurs éléments : une carte sérigraphiée et texturée, sur laquelle sont agencés des fragments géométriques de papiers colorés, cadrés au travers d’une Marie-Louise.
+      À la suite de plusieurs semaines de résidence au Parc Culturel Jean Jacques Rousseau, BAUDELAIRE Camille et SCHRADER Sarah ont conçu avec des personnes en situation de grave handicap, puis des jeunes issus de foyers, des cartes sensibles inspirées des motifs du jardin. Ce projet participatif est devenu un moment de rencontres, d'échanges, et de créations.
     </p>
    
 
@@ -328,14 +324,14 @@ Des formes ont été tirées des nombreux vitraux de l'école, ils nous ont perm
  /_/   \_\_|   \__|_|\___|_|\___|
  -->
 
-  <article class="filterDiv co-design design">
+  <article class="filterDiv graphisme design">
     <h3> 
       SAUZET, Mathilde  
     </h3>
 
     <h4>
-      <a href="#" target="_blank">
-        COLLECTIF ETC : LE GÉANT, LA BOHÈME ET LE COUP DE MAIN 
+      <a href="http://strabic.fr/Collectif-ETC-le-geant-la-boheme-et" target="_blank">
+        COLLECTIF ETC&#8201;: LE GÉANT, LA BOHÈME ET LE COUP DE MAIN 
       </a>
     </h4> 
     
@@ -346,7 +342,7 @@ Des formes ont été tirées des nombreux vitraux de l'école, ils nous ont perm
     <blockquote cit="#">La nature de l’engagement politique, artistique et social semble prendre une nouvelle figure délaissant le scandale pour une révolte prudente mais vivace.</blockquote>
     
     <p> 
-      Si le collectif ETC commence à trouver une place singulière dans le paysage de l’activisme, c’est peut-être pour son curieux mélange d’enfants sages et gaillards sans peurs, militants généreux de la perceuse et du tweet. De la belle éthique à la belle étiquette, où en sont-ils ?
+      Cet article parle de l'engagement social du  collectif ETC. 
     </p>
    
 
