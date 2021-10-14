@@ -28,14 +28,14 @@ width: 0.4vw;
 }
 
 ::-webkit-scrollbar-track {
-background: white;
+background: #D3D3D3;
 }
 
 ::-webkit-scrollbar-thumb {
 background: black;
 }
 
-body {background-color: white;
+body {background-color: #EFEFEF;
 	overflow-x: hidden;
 }
 
@@ -44,7 +44,7 @@ border-bottom: 1px solid black;
 font-family: 'Helvetica', sans-serif;
 position: fixed;
 top:0px;
-background-color: white;
+background-color: #EFEFEF;
 width: 100vw;
 height: 50px;
 display: flex;	
@@ -91,7 +91,7 @@ text-decoration: underline;
 
 
 .conteneur{
-	width: 1000px;
+	width: 1150px;
 	height:auto;
 	margin:100px auto;
 	display: grid;
@@ -138,7 +138,8 @@ width: 100px;
 text-align: center;
 font-family: 'Helvetica';
 font-weight: 200;
-font-size: 2em;
+font-size: 1.5em;
+text-decoration: none;
 }
 
 
@@ -159,8 +160,8 @@ h2{
 width: 23vw;
 font-family: 'Helvetica';
 color: black;
-font-weight:700;
-font-size: 3em;
+font-weight:500;
+font-size: 2em;
 padding-top: 40px;
 padding-bottom: 10px;
 }
