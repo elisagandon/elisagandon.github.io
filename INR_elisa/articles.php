@@ -47,7 +47,7 @@
     </h5>
     
     <blockquote cit="#">les chercheurs et designers veillent à ce que les utilisateurs ne soient pas 
-seulement consultés (ce qui est déjà une avancée), mais qu’ils soient impliqués comme des partenaires centraux dans le processus du design.<br/></blockquote>
+seulement consultés (ce qui est déjà une avancée), mais qu’ils soient impliqués comme des partenaires centraux dans le processus du design.</blockquote>
     
     <p> 
       Cet article présente le design coopératif que l’on appelle aussi design participatif ou codesign. Il discute de la question de la création participative en régime démocratique et adopte une approche relationniste et communicationnelle typique du codesign et du design empathique.
@@ -70,7 +70,7 @@ seulement consultés (ce qui est déjà une avancée), mais qu’ils soient impl
 
   <article class="filterDiv co-design projets">
     <h3>
-      Collectif Ne Rougissez Pas  
+      Collectif Ne Rougissez Pas.  
     </h3>
 
     <h4>
@@ -106,7 +106,7 @@ seulement consultés (ce qui est déjà une avancée), mais qu’ils soient impl
 
   <article class="filterDiv co-design projets">
     <h3>
-      LUDD Captain  
+      LUDD Captain. 
     </h3>
 
     <h4>
@@ -142,7 +142,7 @@ seulement consultés (ce qui est déjà une avancée), mais qu’ils soient impl
 
   <article class="filterDiv co-design projets">
     <h3>
-      PEREZ, Éloïsa   
+      PEREZ, Éloïsa.   
     </h3>
 
     <h4>
@@ -178,17 +178,17 @@ seulement consultés (ce qui est déjà une avancée), mais qu’ils soient impl
 
   <article class="filterDiv co-design projets">
     <h3>
-      Grapheine  
+      Grapheine.  
     </h3>
 
     <h4>
       <a href="https://www.grapheine.com/branding/autre-soie-identite-visuelle-participative"target="_blank">
-        L’Autre Soie, une identité visuelle participative ! 
+        L’Autre Soie, une identité visuelle participative&#8201;! 
       </a>
     </h4> 
     
     <h5>
-      Grapheine, 06 janvier 2019
+      Grapheine, 06 janvier 2019.
     </h5>
     
     <blockquote cit="#">Et peu importe que les points soient reliés physiquement ou mentalement, c'est dans cette action que les mots deviennent des signes, et que le logo apparait. Dès lors, la personne qui regarde le logo devient co-auteur du logo&#8201;!</blockquote>
@@ -214,7 +214,7 @@ seulement consultés (ce qui est déjà une avancée), mais qu’ils soient impl
 
   <article class="filterDiv co-design projets">
     <h3>
-      Team Thursday   
+      Team Thursday.   
     </h3>
 
     <h4>
@@ -224,13 +224,13 @@ seulement consultés (ce qui est déjà une avancée), mais qu’ils soient impl
     </h4> 
     
     <h5>
-      Team Thursday, 2014
+      Team Thursday, 2014.
     </h5>
     
     <blockquote cit="#">Personnaliser 2000 affiches à la main, c’est du boulot, mais ça peut valoir le coup de tenter l’effort.</blockquote>
     
     <p> 
-      Le studio Team Thursday à réalisé pour le festival «Moving Futures» des affiches typographique modèle qui doivent être complétées avec un marqueur rouge. 
+      Le studio Team Thursday à réalisé pour le festival «Moving Futures» des affiches typographiques modèles qui doivent être complétées avec un marqueur rouge. 
       C'est un exemple de projet participatif. 
     </p>
    
@@ -252,7 +252,7 @@ seulement consultés (ce qui est déjà une avancée), mais qu’ils soient impl
 
   <article class="filterDiv graphisme design">
     <h3>
-      DAUTREY, Jehanne  
+      DAUTREY, Jehanne.  
     </h3>
 
     <h4>
@@ -265,16 +265,17 @@ seulement consultés (ce qui est déjà une avancée), mais qu’ils soient impl
       Presses Du Reel, 2019.
     </h5>
     
-    <blockquote cit="#">Qu’est ce que le concept de care, issu de la philosophie américaine et centré sur la notion de sollicitude, apporte au design, à ses objectifs et à ses pratiques&#8201;?<br/>
+    <blockquote cit="#">«Ce dont il faut prendre soin n’est pas seulement un corps singulier, celui d’une personne, mais aussi un corps socio-économique, un corps collectif constitué d’acteurs d’un territoire.<br/>
     </blockquote>
     
     <p> 
-      Ce livre est une réflexion collective sur les relations de réciprocité entre design et pensée du care (éthique de la sollicitude), dans les domaines du soin, de l'innovation sociale, des objets ou encore de la problématique environnementale.
+  Cet ouvrage s’interroge sur les relations de réciprocité entre design et pensée du care, dans les domaines du soin, de l’innovation sociale, des objets ou encore de la problématique environnementale. Il permet de saisir les pratiques du care et de rendre visibles et lisibles des projets existants.Mon mémoire traite du rôle que peut avoir le design dans la création de lien social au sein d’un territoire. Dans la troisième partie de cet ouvrage, «&#8201;Le care au service de l’innovation sociale&#8201;», les notions de territoire, de transmission, de lien social et intergénérationnel, sont évoquées. Ces notions sont étroitement liées à mon sujet. 
+
     </p>
    
 
     <h6> 
-      Consulté le 11 octobre 2021  
+      Date de lecture : octobre 2021  
     </h6>
   
   </article>
@@ -290,7 +291,7 @@ seulement consultés (ce qui est déjà une avancée), mais qu’ils soient impl
 
   <article class="filterDiv co-design projets">
     <h3> 
-      BAUDELAIRE, Camille et SCHRADER, Sarah 
+      BAUDELAIRE, Camille et SCHRADER, Sarah.
     </h3>
 
     <h4>
@@ -300,7 +301,7 @@ seulement consultés (ce qui est déjà une avancée), mais qu’ils soient impl
     </h4> 
     
     <h5>
-      BAUDELAIRE Camille, 2018.
+      BAUDELAIRE, Camille, 2018.
     </h5>
     
     <blockquote cit="#">Une gamme de motifs sensoriels s’inspirant des textures, formes et couleurs d’un jardin chargé d’histoire, se font support à un atelier de création solidaire.</blockquote>
@@ -326,12 +327,12 @@ seulement consultés (ce qui est déjà une avancée), mais qu’ils soient impl
 
   <article class="filterDiv graphisme design">
     <h3> 
-      SAUZET, Mathilde  
+      SAUZET, Mathilde. 
     </h3>
 
     <h4>
       <a href="http://strabic.fr/Collectif-ETC-le-geant-la-boheme-et" target="_blank">
-        COLLECTIF ETC&#8201;: LE GÉANT, LA BOHÈME ET LE COUP DE MAIN 
+        COLLECTIF ETC&#8201;: Le géant, la bohème et le coup de main
       </a>
     </h4> 
     
@@ -347,10 +348,125 @@ seulement consultés (ce qui est déjà une avancée), mais qu’ils soient impl
    
 
     <h6> 
-      Consulté le 11 octobre 2021  
+      Consulté le 11 octobre 2021 
     </h6>
   
   </article>
+
+
+    <!-- 
+     _         _   _      _      
+    / \   _ __| |_(_) ___| | ___ 
+   / _ \ | '__| __| |/ __| |/ _ \
+  / ___ \| |  | |_| | (__| |  __/
+ /_/   \_\_|   \__|_|\___|_|\___|
+ -->
+
+  <article class="filterDiv graphisme design">
+    <h3> 
+      DELPRAT, Étienne, BAKOURI, Nawal, et Polysémique. 
+    </h3>
+
+    <h4>
+      <a href="https://plateforme-socialdesign.net/fr/publication/en-quete-de-design-social-recits-et-cartographies-de-projets-0" target="_blank">
+        En quête de design social - récits et cartographies de projets
+      </a>
+    </h4> 
+    
+    <h5>
+      Polysémique, mars 2020.
+    </h5>
+    
+    <blockquote cit="#">Au-delà d’un design focalisé sur la seule apparence esthétique des objets, il incombe au design de s’intéresser à des problématiques ayant trait au groupe, à la collectivité, aux usages, tout en mêlant à son expertise une approche artistique de qualité.</blockquote>
+    
+    <p> 
+      Cet ouvrage permet de saisir les pratiques de design social et leurs enjeux, de rendre visibles et lisibles les projets déjà mis en œuvre, tout champ confondu. Le « jeu» de cartographie de projets est un support de projection et d’échange, qui permet de visualiser le processus des projets et d’en envisager de futurs.Mon mémoire traite du rôle que peut avoir le design dans la création de lien social au sein d’un territoire. Dans cet ouvrage les notions de territoire, d’usagers, de lien, de transmission, et de vivre ensemble sont évoquées. Cet ouvrage m’a ainsi permis de mieux comprendre les sens et valeurs de ces notions dans des projets de design social. 
+    </p>
+   
+
+    <h6> 
+      Date de lecture : octobre 2021  
+    </h6>
+  
+  </article>
+
+
+  <!-- 
+     _         _   _      _      
+    / \   _ __| |_(_) ___| | ___ 
+   / _ \ | '__| __| |/ __| |/ _ \
+  / ___ \| |  | |_| | (__| |  __/
+ /_/   \_\_|   \__|_|\___|_|\___|
+ -->
+
+  <article class="filterDiv tag1 tag2">
+    <h3>
+      AKNIN, Luce.
+    </h3>
+
+    <h4>
+      <a href="https://plateforme-socialdesign.net/fr/decouvrir/atelier-faire-savoir" target="_blank">
+        Atelier faire savoir 
+      </a>
+    </h4> 
+    
+    <h5>
+      AKNIN, Luce, octobre 2016 - février 2017.
+    </h5>
+    
+    <blockquote cit="#">L’atelier FAIRE SAVOIR propose une sensibilisation aux métiers manuels d’une région, par la fabrication d’objets à usage collectif.</blockquote>
+    
+    <p> 
+      Les objets réalisés répondent à un usage collectif bien réelle pour les habitants. Les professionnels ont pu transmettre leurs savoirs à travers les ateliers participatifs. Ceux-ci ont sensibilisé les habitants, ou jeunes en réinsertion aux savoir-faire manuels et industriels locaux. Les métiers et formations de fondeur et chaudronnier ont été valorisés.Le processus de fabrication à la fois pédagogique et représentative du métier a permis de réaliser des objets d’usage qualitatif témoignant d’un réel savoir-faire. Mon mémoire traite du rôle que peut avoir le design dans la création de lien social au sein d’un territoire. Le projet « Atelier faire savoir » a permis de sensibiliser, mais également de promouvoir aux savoir-faire et aux métier manuels et industriels locaux. Ces ateliers ont été des temps d’échange et de transmission de savoir. Ils ont permis de créer du lien entre des personnes différentes qui ne se seraient pas forcément rencontrées autrement. Ce projet me semble ainsi en adéquation avec mon thème
+    </p>
+   
+
+    <h6> 
+      Consulté le 5 novembre 2021  
+    </h6>
+  
+  </article>
+
+
+<!-- 
+     _         _   _      _      
+    / \   _ __| |_(_) ___| | ___ 
+   / _ \ | '__| __| |/ __| |/ _ \
+  / ___ \| |  | |_| | (__| |  __/
+ /_/   \_\_|   \__|_|\___|_|\___|
+ -->
+
+  <article class="filterDiv tag1 tag2">
+    <h3>
+      Collectif Faites&#8201;! (Agrafmobile - YA+K - Plausible Possiblew).
+    </h3>
+
+    <h4>
+      <a href="#" target="_blank">
+        Faites la place&#8201;!
+      </a>
+    </h4> 
+    
+    <h5>
+     Collectif Faites&#8201;!, juin - décembre 2016.
+    </h5>
+    
+    <blockquote cit="https://www.agrafmobile.net/espaces-publics/faites-la-place">Ce qui est une recherche-action entre un collectif de concepteurs et les habitants l’est autant avec les services et élus de la ville pour permettre cet urbanisme producteur de communs.</blockquote>
+    
+    <p> 
+      L’analyse des usages actuels ainsi que le questionnement auprès des acteurs locaux ont permis de mieux comprendre la volonté des habitants pour cette place.La co-conception et co-construction d’outils collectifs pour la place ont rendu les habitants, acteurs de leur propre quartier. Ces ateliers ont permis de tisser du lien entre les habitants. Les différents dispositifs mis en place ont permis de redynamiser la place et de favoriser l’échange entre les habitants. L’analyse des usages actuels ainsi que le questionnement auprès des acteurs locaux ont permis de mieux comprendre la volonté des habitants pour cette place. La co-conception et co-construction d’outils collectifs pour la place ont rendu les habitants, acteurs de leur propre quartier. Ces ateliers ont permis de tisser du lien entre les habitants. Les différents dispositifs mis en place ont permis de redynamiser la place et de favoriser l’échange entre les habitants. 
+
+    </p>
+   
+
+    <h6> 
+      Consulté le 10 novembre 2021 
+    </h6>
+  
+  </article>
+
+
+
 
 
 </section>
