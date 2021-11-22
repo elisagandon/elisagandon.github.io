@@ -362,7 +362,7 @@ seulement consultés (ce qui est déjà une avancée), mais qu’ils soient impl
  /_/   \_\_|   \__|_|\___|_|\___|
  -->
 
-  <article class="filterDiv graphisme design">
+  <article class="filterDiv co-design design">
     <h3> 
       DELPRAT, Étienne, BAKOURI, Nawal, et Polysémique. 
     </h3>
@@ -399,7 +399,7 @@ seulement consultés (ce qui est déjà une avancée), mais qu’ils soient impl
  /_/   \_\_|   \__|_|\___|_|\___|
  -->
 
-  <article class="filterDiv tag1 tag2">
+  <article class="filterDiv co-design design">
     <h3>
       AKNIN, Luce.
     </h3>
@@ -436,7 +436,7 @@ seulement consultés (ce qui est déjà une avancée), mais qu’ils soient impl
  /_/   \_\_|   \__|_|\___|_|\___|
  -->
 
-  <article class="filterDiv tag1 tag2">
+  <article class="filterDiv projets co-design">
     <h3>
       Collectif Faites&#8201;! (Agrafmobile - YA+K - Plausible Possiblew).
     </h3>
