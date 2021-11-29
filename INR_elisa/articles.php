@@ -30,7 +30,7 @@
  /_/   \_\_|   \__|_|\___|_|\___|
  -->
 
-  <article class="filterDiv co-design design">
+  <article class="filterDiv codesign design">
     <h3>
       DARRAS, Bernard.  
     </h3>
@@ -68,7 +68,7 @@ seulement consultés (ce qui est déjà une avancée), mais qu’ils soient impl
  /_/   \_\_|   \__|_|\___|_|\___|
  -->
 
-  <article class="filterDiv co-design projets">
+  <article class="filterDiv codesign signalétique">
     <h3>
       Collectif Ne Rougissez Pas.  
     </h3>
@@ -104,7 +104,7 @@ seulement consultés (ce qui est déjà une avancée), mais qu’ils soient impl
  /_/   \_\_|   \__|_|\___|_|\___|
  -->
 
-  <article class="filterDiv co-design projets">
+  <article class="filterDiv codesign typographie">
     <h3>
       LUDD Captain. 
     </h3>
@@ -140,7 +140,7 @@ seulement consultés (ce qui est déjà une avancée), mais qu’ils soient impl
  /_/   \_\_|   \__|_|\___|_|\___|
  -->
 
-  <article class="filterDiv co-design projets">
+  <article class="filterDiv codesign typographie">
     <h3>
       PEREZ, Éloïsa.   
     </h3>
@@ -176,7 +176,7 @@ seulement consultés (ce qui est déjà une avancée), mais qu’ils soient impl
  /_/   \_\_|   \__|_|\___|_|\___|
  -->
 
-  <article class="filterDiv co-design projets">
+  <article class="filterDiv codesign identité visuelle">
     <h3>
       Grapheine.  
     </h3>
@@ -212,7 +212,7 @@ seulement consultés (ce qui est déjà une avancée), mais qu’ils soient impl
  /_/   \_\_|   \__|_|\___|_|\___|
  -->
 
-  <article class="filterDiv co-design projets">
+  <article class="filterDiv codesign médiation">
     <h3>
       Team Thursday.   
     </h3>
@@ -250,7 +250,7 @@ seulement consultés (ce qui est déjà une avancée), mais qu’ils soient impl
  /_/   \_\_|   \__|_|\___|_|\___|
  -->
 
-  <article class="filterDiv graphisme design">
+  <article class="filterDiv graphisme design philosophie">
     <h3>
       DAUTREY, Jehanne.  
     </h3>
@@ -289,7 +289,7 @@ seulement consultés (ce qui est déjà une avancée), mais qu’ils soient impl
  /_/   \_\_|   \__|_|\___|_|\___|
  -->
 
-  <article class="filterDiv co-design projets">
+  <article class="filterDiv codesign graphisme">
     <h3> 
       BAUDELAIRE, Camille et SCHRADER, Sarah.
     </h3>
@@ -362,7 +362,7 @@ seulement consultés (ce qui est déjà une avancée), mais qu’ils soient impl
  /_/   \_\_|   \__|_|\___|_|\___|
  -->
 
-  <article class="filterDiv co-design design">
+  <article class="filterDiv codesign design médiation">
     <h3> 
       DELPRAT, Étienne, BAKOURI, Nawal, et Polysémique. 
     </h3>
@@ -399,7 +399,7 @@ seulement consultés (ce qui est déjà une avancée), mais qu’ils soient impl
  /_/   \_\_|   \__|_|\___|_|\___|
  -->
 
-  <article class="filterDiv co-design design">
+  <article class="filterDiv codesign design médiation">
     <h3>
       AKNIN, Luce.
     </h3>
@@ -436,7 +436,7 @@ seulement consultés (ce qui est déjà une avancée), mais qu’ils soient impl
  /_/   \_\_|   \__|_|\___|_|\___|
  -->
 
-  <article class="filterDiv projets co-design">
+  <article class="filterDiv médiation codesign">
     <h3>
       Collectif Faites&#8201;! (Agrafmobile - YA+K - Plausible Possiblew).
     </h3>
