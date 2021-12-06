@@ -442,7 +442,7 @@ seulement consultés (ce qui est déjà une avancée), mais qu’ils soient impl
     </h3>
 
     <h4>
-      <a href="#" target="_blank">
+      <a href="https://www.agrafmobile.net/espaces-publics/faites-la-place" target="_blank">
         Faites la place&#8201;!
       </a>
     </h4> 
@@ -451,7 +451,7 @@ seulement consultés (ce qui est déjà une avancée), mais qu’ils soient impl
      Collectif Faites&#8201;!, juin - décembre 2016.
     </h5>
     
-    <blockquote cit="https://www.agrafmobile.net/espaces-publics/faites-la-place">Ce qui est une recherche-action entre un collectif de concepteurs et les habitants l’est autant avec les services et élus de la ville pour permettre cet urbanisme producteur de communs.</blockquote>
+    <blockquote cit="#">Ce qui est une recherche-action entre un collectif de concepteurs et les habitants l’est autant avec les services et élus de la ville pour permettre cet urbanisme producteur de communs.</blockquote>
     
     <p> 
       L’analyse des usages actuels ainsi que le questionnement auprès des acteurs locaux ont permis de mieux comprendre la volonté des habitants pour cette place.La co-conception et co-construction d’outils collectifs pour la place ont rendu les habitants, acteurs de leur propre quartier. Ces ateliers ont permis de tisser du lien entre les habitants. Les différents dispositifs mis en place ont permis de redynamiser la place et de favoriser l’échange entre les habitants. L’analyse des usages actuels ainsi que le questionnement auprès des acteurs locaux ont permis de mieux comprendre la volonté des habitants pour cette place. La co-conception et co-construction d’outils collectifs pour la place ont rendu les habitants, acteurs de leur propre quartier. Ces ateliers ont permis de tisser du lien entre les habitants. Les différents dispositifs mis en place ont permis de redynamiser la place et de favoriser l’échange entre les habitants. 
@@ -465,8 +465,41 @@ seulement consultés (ce qui est déjà une avancée), mais qu’ils soient impl
   
   </article>
 
+  <!-- 
+     _         _   _      _      
+    / \   _ __| |_(_) ___| | ___ 
+   / _ \ | '__| __| |/ __| |/ _ \
+  / ___ \| |  | |_| | (__| |  __/
+ /_/   \_\_|   \__|_|\___|_|\___|
+ -->
 
+  <article class="filterDiv graphisme codesign">
+    <h3>
+      BRUINSMA, Max.  
+    </h3>
 
+    <h4>
+      <a href="#https://www.cnap.fr/ndeg27-graphisme-en-france-design-graphique-et-societe-2021" target="_blank">
+        Le design est-il social ?
+      </a>
+    </h4> 
+    
+    <h5>
+      Centre national des arts plastiques, 2021.
+    </h5>
+    
+    <blockquote cit="#">Donner une voix aux personnes et aux communautés, les aider à s’exprimer et à clarifier leurs points de vue, à prendre des responsabilités et à développer leur capacité d’action dans leur milieu de vie sont des préoccupations centrales du design social tel qu’il s’est développé en tant que discours – ou « dispositif » – au cours des dernières décennies.</blockquote>
+    
+    <p> 
+      Max Bruinsma, critique d’art et de design néerlandais nous invite à revenir sur des créations emblématiques qui incarnent l’engagement de leurs auteurs dans des projets de design au service de la société.
+    </p>
+   
+
+    <h6> 
+      Lu le 6 décembre 2021
+    </h6>
+  
+  </article>
 
 
 </section>
