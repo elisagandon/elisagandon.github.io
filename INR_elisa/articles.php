@@ -16,7 +16,7 @@
       <a href="https://elisagandon.github.io/" target="_blank">portfolio</a>
     </h2>
     <p>
-      Mon thème de recherche est porté sur le rôle que peut avoir le graphiste dans la création de lien social. 
+      Mon thème de recherche se porte sur le rôle que peut avoir le graphiste dans la création de lien social. 
 
     </p>
   </aside>
