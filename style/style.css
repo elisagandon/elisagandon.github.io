@@ -1,26 +1,15 @@
-@font-face{
-font-family: 'Poppins', sans-serif;
-}
 
 @font-face {
-    font-family: 'Times Now';
-    src: local('Times Now Extra Light'), local('Times-Now-Extra-Light'),
-        url('TimesNow-ExtraLight.woff2') format('woff2'),
-        url('TimesNow-ExtraLight.woff') format('woff'),
-        url('TimesNow-ExtraLight.ttf') format('truetype');
-    font-weight: 200;
+    font-family: 'Neutrif Pro';
+    src: url('NeutrifPro-Regular.eot');
+    src: local('NeutrifPro-Regular'),
+        url('NeutrifPro-Regular.eot?#iefix') format('embedded-opentype'),
+        url('NeutrifPro-Regular.woff2') format('woff2'),
+        url('NeutrifPro-Regular.woff') format('woff'),
+        url('NeutrifPro-Regular.ttf') format('truetype');
+    font-weight: normal;
     font-style: normal;
-  }
-
-@font-face {
-    font-family: 'Times Now';
-    src: local('Times Now Extra Light Italic'), local('Times-Now-Extra-Light-Italic'),
-        url('TimesNow-ExtraLightItalic.woff2') format('woff2'),
-        url('TimesNow-ExtraLightItalic.woff') format('woff'),
-        url('TimesNow-ExtraLightItalic.ttf') format('truetype');
-    font-weight: 200;
-    font-style: italic;
-  }
+}
 
 
 ::-webkit-scrollbar {
@@ -41,7 +30,7 @@ body {background-color: #EFEFEF;
 
 header{
 border-bottom: 1px solid black;
-font-family: 'Helvetica', sans-serif;
+font-family: 'Neutrif Pro', sans-serif;
 position: fixed;
 top:0px;
 background-color: #EFEFEF;
@@ -54,8 +43,7 @@ align-items: center;
 
 h1{
 width: 20vw;
-font-family: 'Helvetica';
-font-weight:100;
+font-family: 'Neutrif Pro';
 font-size: 1.25em;
 padding-left: 2vw;
 
@@ -75,8 +63,7 @@ padding-right: 3vw;
 }
 
 li{
-font-family: 'Helvetica';
-font-weight:400;
+font-family: 'Neutrif Pro';
 font-size: 1.10em;
 }
 
@@ -89,16 +76,41 @@ a:hover{
 text-decoration: underline;
 }
 
-
+/* GRILLE */
 .conteneur{
-	width: 90vw;
-	height:auto;
-	margin:100px auto;
 	display: grid;
-	grid-template-columns: 1fr 1fr 1fr;
-	grid-template-rows:auto;
-	grid-gap: 30px; /*grille avec 30px ecart*/ 
-	grid-auto-flow: row ; /*ranger en rangée*/
+	grid-template-columns: repeat(4,1fr);
+	grid-template-rows: 1fr;
+	grid-column-gap: 20px;
+	grid-row-gap: 0px; 
+	width: 95vw;
+	margin:70px auto;
+
+}
+
+.colonne1{ 
+	grid-area: 1 / 1 / 2 / 2; 
+	width:100%;
+}
+
+.colonne2{ 
+	grid-area: 1 / 2 / 2 / 3; 
+	width:100%;
+}
+
+.colonne3{ 
+	grid-area: 1 / 3 / 2 / 4; 
+	width:100%;
+}
+
+.colonne4{ 
+	grid-area: 1 / 4 / 2 / 5; 
+	width:100%;
+}
+
+article{
+	width:100%;
+	margin-bottom: 20px;
 }
 
 img {
@@ -106,6 +118,8 @@ img {
 	height: auto;
 }
 
+
+/* FOOTER */
 footer{
 width: 100vw;
 height: 50px;
@@ -114,6 +128,8 @@ align-items: center;
 justify-content: center;
 }
 
+
+/* PROJETS */
 .fprojet{
 width: 30vw;
 height: 30px;
@@ -125,9 +141,8 @@ bottom: 0px;
 }
 
 .p-footer{
-font-family: 'Helvetica';
+font-family: 'Neutrif Pro';
 color: black;
-font-weight:400;
 text-align: center;
 font-size: 0.7em;
 
@@ -158,36 +173,32 @@ text-decoration: none;
 
 h2{
 width: 23vw;
-font-family: 'Helvetica';
+font-family: 'Neutrif Pro';
 color: black;
-font-weight:500;
-font-size: 2em;
+font-size: 3em;
 padding-top: 40px;
 padding-bottom: 10px;
 }
 
 h3{
 width: 23vw;
-font-family: 'Helvetica';
+font-family: 'Neutrif Pro';
 color: black;
-font-weight:100;
-font-size: 1.5em;
+font-size: 1em;
 padding-bottom: 20px;
 }
 
 
 .description{
 width: 23vw;
-font-family: 'Times-Now-Extra-Light';
+font-family: 'Neutrif Pro';
 color: black;
-font-weight:300;
-font-size: 0.99em;
-line-height: 1.3em;
+font-size: 0.8em;
+line-height: 1.2em;
 }
 
 em{
-font-family:'Times-Now-Extra-Light-Italic';
-font-weight:300;
+font-family:'Neutrif Pro';
 font-style: italic;
 }
 
